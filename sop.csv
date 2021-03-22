@@ -1,0 +1,354 @@
+SL. NO.,Star,Seat Name,Region Overlap,Holder Buffs,Title Name,Buff,Regional Bonuses,Owned,Owner,Rein,Slots,Wall,Tier
+1,5,King's Landing,0,Troop Attack +30%,Landed Knight,Troop Attack +30%,March Size Reinforcing SoPs +5000,NO,0,920k,24,1162k,T1
+1,5,King's Landing,0,Forging Speed +200%,Landed Knight,March Speed +25%,March Speed Reinforcing +10%,NO,0,920k,24,1162k,T1
+1,5,King's Landing,0,Defender Defense +90%,Bannerman,Dragon: March Size +3000,March Speed +30%,NO,0,920k,24,1162k,T1
+1,5,King's Landing,0,Holder March +364k,Bannerman,March Speed +25%,Infantry Attack +30%,NO,0,920k,24,1162k,T1
+1,5,King's Landing,0,March Slots +1,Master of War,Ranged Defense +60%,D2W +8%,NO,0,920k,24,1162k,T1
+1,5,King's Landing,0,Steel Crafting Efficiency +180%,Master of War,March Speed +25%,Construction Speed +20%,NO,0,920k,24,1162k,T1
+1,5,King's Landing,0,March Size +3750,Master of Whispers,Troop Health +30%,Troop Upkeep Efficiency +15%,NO,0,920k,24,1162k,T1
+1,5,King's Landing,0,Healing Cost Efficiency +150%,Master of Whispers,March Speed +25%,0,NO,0,920k,24,1162k,T1
+1,5,King's Landing,0,March Speed +50%,Hand of the King,Rallied Troop Capacity +15k,0,NO,0,920k,24,1162k,T1
+1,5,King's Landing,0,0,Hand of the King,March Speed +25%,0,NO,0,920k,24,1162k,T1
+1,5,King's Landing,0,0,Master of Coin,Steel Crafting Efficiency +130%,0,NO,0,920k,24,1162k,T1
+1,5,King's Landing,0,0,Master of Coin,Construction Speed +50%,0,NO,0,920k,24,1162k,T1
+2,4.5,Casterly Rock,King's Landing,Ranged Attack +56%,Bannerman,Ranged Attack +48%,March Size Reinforcing SoP +5000,NO,0,825k,22,871k,T2
+2,4.5,Casterly Rock,King's Landing,Training Speed +120%,Landed Knight,Siege Health +48%,March Speed Reinforcing +10%,NO,0,825k,22,871k,T2
+2,4.5,Casterly Rock,King's Landing,Holder March +340k,Cupbearer,Training Speed +95%,March Speed +20%,NO,0,825k,22,871k,T2
+2,4.5,Casterly Rock,King's Landing,Maester Speed +70%,Sentinel,Defender Health +41%,Ranged Attack +20%,NO,0,825k,22,871k,T2
+2,4.5,Casterly Rock,King's Landing,March Speed vs Creatures +84%,Ward,Rallied Troop Capacity +11880,D2W +6%,NO,0,825k,22,871k,T2
+2,4.5,Casterly Rock,King's Landing,Gold Gathering +80%,KL Attack x8,March Size vs KL +175k,Construction Speed +20%,NO,0,825k,22,871k,T2
+2,4.5,Casterly Rock,King's Landing,King's Landing Attack,KL Attack x8,D2W vs KL +2%,Stone Production +20%,NO,0,825k,22,871k,T2
+2,4.5,Casterly Rock,King's Landing,0,KL Attack x8,Rallied Troop Capacity vs KL +105k,0,NO,0,825k,22,871k,T2
+2,4.5,Casterly Rock,King's Landing,0,KL Attack x8,Rally Slots vs KL +2,0,NO,0,825k,22,871k,T2
+3,4.5,Winterfell,King's Landing,Infantry Attack +56%,Bannerman,Infantry Attack +48%,March Size Reinforcing SoP +5000,NO,0,825k,22,871k,T2
+3,4.5,Winterfell,King's Landing,Training Speed +120%,Septon,Rallied Troop Capacity +11880,March Speed Reinforcing +10%,NO,0,825k,22,871k,T2
+3,4.5,Winterfell,King's Landing,Holder March +340k,Cupbearer,D2W +4%,March Speed +15%,NO,0,825k,22,871k,T2
+3,4.5,Winterfell,King's Landing,Food Gathering +70%,Sentinel,Defender Health +71%,Infantry Attack +15%,NO,0,825k,22,871k,T2
+3,4.5,Winterfell,King's Landing,Trap Attack +84%,Grand Maester,March Speed +40%,D2W +4%,NO,0,825k,22,871k,T2
+3,4.5,Winterfell,King's Landing,D2W +4%,KL Attack x8,March Size vs KL +175k,Construction Speed +20%,NO,0,825k,22,871k,T2
+3,4.5,Winterfell,King's Landing,KL Attack,KL Attack x8,D2W vs KL +2%,Training Speed +20%,NO,0,825k,22,871k,T2
+3,4.5,Winterfell,King's Landing,0,KL Attack x8,Rallied Troop Capacity vs KL +105k,0,NO,0,825k,22,871k,T2
+3,4.5,Winterfell,King's Landing,0,KL Attack x8,Rally Slots vs KL +2,0,NO,0,825k,22,871k,T2
+4,4.5,Storm's End,King's Landing,Ranged Attack +56%,Bannerman,Ranged Attack +48%,March Size Reinforcing SoP +1250,NO,0,825k,22,871k,T2
+4,4.5,Storm's End,King's Landing,Training Speed +120%,Spymaster,Siege Attack +48%,March Speed +20%,NO,0,825k,22,871k,T2
+4,4.5,Storm's End,King's Landing,Holder March +340k,Maester,Trap Attack +71%,Cavalry Attack +20%,NO,0,825k,22,871k,T2
+4,4.5,Storm's End,King's Landing,Maester Speed +70%,Sentinel,Cavalry Defense +48%,D2W +6%,NO,0,825k,22,871k,T2
+4,4.5,Storm's End,King's Landing,March Speed vs Creatures +84%,Ward,Rallied Troop Capacity +11880,Construction Speed +20%,NO,0,825k,22,871k,T2
+4,4.5,Storm's End,King's Landing,D2W +4%,KL Attack x8,March Size vs KL +175k,Steel Crafting Efficiency +20%,NO,0,825k,22,871k,T2
+4,4.5,Storm's End,King's Landing,KL Attack,KL Attack x8,D2W vs KL +2%,0,NO,0,825k,22,871k,T2
+4,4.5,Storm's End,King's Landing,0,KL Attack x8,Rallied Troop Capacity vs KL +105k,0,NO,0,825k,22,871k,T2
+4,4.5,Storm's End,King's Landing,0,KL Attack x8,Rally Slots vs KL +2,0,NO,0,825k,22,871k,T2
+5,4,Dragonstone,King's Landing,Healing Cost Efficiency +105%,Maester,Healing Cost Efficiency +90%,March Size Reinforcing SoP +5000,NO,0,795k,20,814k,T2
+5,4,Dragonstone,King's Landing,Dragon Attack +70%,Spymaster,Training Speed +90%,March Speed Reinforcing +10%,NO,0,795k,20,814k,T2
+5,4,Dragonstone,King's Landing,Holder March +225k,Cupbearer,Attack at SoP +45%,March Speed +15%,NO,0,795k,20,814k,T2
+5,4,Dragonstone,King's Landing,Iron Gathering 66%,Sentinel,March Size vs Creatures +3366,Ranged Attack +20%,NO,0,795k,20,814k,T2
+5,4,Dragonstone,King's Landing,March Size vs Resources +5250,4.5 Attack x7,March Size vs 4.5* SoP +150k,D2W +4%,NO,0,795k,20,814k,T2
+5,4,Dragonstone,King's Landing,D2W +4%,4.5 Attack x7,D2W vs 4.5* SoP +2%,Construction Speed +20%,NO,0,795k,20,814k,T2
+5,4,Dragonstone,King's Landing,4.5 Attack,4.5 Attack x7,Rallied Troop Capacity vs 4.5* SoP +90k,Dragon Health Regen Rate 0.03,NO,0,795k,20,814k,T2
+5,4,Dragonstone,King's Landing,0,4.5 Attack x7,Rally Slots vs 4.5* SoP +2,0,NO,0,795k,20,814k,T2
+6,4,Eyrie,King's Landing,Cavalry Attack +53%,Bannerman,Cavalry Attack +45%,March Size Reinforcing SoP +5000,NO,0,795k,20,814k,T2
+6,4,Eyrie,King's Landing,Training Speed +105%,Landed Knight,Siege Defense +45%,March Speed Reinforcing +10%,NO,0,795k,20,814k,T2
+6,4,Eyrie,King's Landing,Holder March +225k,Cupbearer,Food Production +56%,March Speed +15%,NO,0,795k,20,814k,T2
+6,4,Eyrie,King's Landing,Stable Training Capacity (cavalry) +263,Sentinel,Wood Production +56%,Ranged Attack +20%,NO,0,795k,20,814k,T2
+6,4,Eyrie,King's Landing,Food Gathering +66%,4.5 Attack x7,March Size vs 4.5* SoP +150k,D2W +4%,NO,0,795k,20,814k,T2
+6,4,Eyrie,King's Landing,D2W +4%,4.5 Attack x7,D2W vs 4.5* SoP +2%,Construction Speed +20%,NO,0,795k,20,814k,T2
+6,4,Eyrie,King's Landing,4.5 Attack,4.5 Attack x7,Rallied Troop Capacity vs 4.5* SoP +90k,Dragon: Troop Attack +15%,NO,0,795k,20,814k,T2
+6,4,Eyrie,King's Landing,0,4.5 Attack x7,Rally Slots vs 4.5* SoP +2,0,NO,0,795k,20,814k,T2
+7,4,Sunspear,King's Landing,Infantry Attack +53%,Bannerman,Infantry Attack +45%,March Size Reinforcing SoP +5000,NO,0,795k,20,814k,T2
+7,4,Sunspear,King's Landing,Maester Speed +70%,Maester,Rallied Troop vs Sop +22400,March Speed Reinforcing +10%,NO,0,795k,20,814k,T2
+7,4,Sunspear,King's Landing,Holder March +225k,Cupbearer,Attack vs Creatures +45%,March Speed +15%,NO,0,795k,20,814k,T2
+7,4,Sunspear,King's Landing,Defender Defense +79%,Sentinel,Wounded Capacity +3366,Cavalry Attack +15%,NO,0,795k,20,814k,T2
+7,4,Sunspear,King's Landing,Stone Gathering 66%,4.5 Attack x7,March Size vs 4.5* SoP +150k,D2W +4%,NO,0,795k,20,814k,T2
+7,4,Sunspear,King's Landing,D2W +4%,4.5 Attack x7,D2W vs 4.5* SoP +2%,Construction Speed +20%,NO,0,795k,20,814k,T2
+7,4,Sunspear,King's Landing,4.5 Attack,4.5 Attack x7,Rallied Troop Capacity vs 4.5* SoP +90k,Dragon Attack +15%,NO,0,795k,20,814k,T2
+7,4,Sunspear,King's Landing,0,4.5 Attack x7,Rally Slots vs 4.5* SoP +2,0,NO,0,795k,20,814k,T2
+8,4,Highgarden,King's Landing,Cavalry Attack +53%,Bannerman,Cavalry Attack +45%,March Size Reinforcing SoP +5000,NO,0,795k,20,814k,T2
+8,4,Highgarden,King's Landing,Maester Speed +80%,Septon,Food Gathering +56%,March Speed Reinforcing +10%,NO,0,795k,20,814k,T2
+8,4,Highgarden,King's Landing,Holder March +225k,Cupbearer,Defender Defense +67%,March Speed +15%,NO,0,795k,20,814k,T2
+8,4,Highgarden,King's Landing,Troop Load +53%,Sentinel,Attack vs Creatures +45%,Infantry Attack +15%,NO,0,795k,20,814k,T2
+8,4,Highgarden,King's Landing,Training Speed +105%,4.5 Attack x7,March Size vs 4.5* SoP +150k,D2W +4%,NO,0,795k,20,814k,T2
+8,4,Highgarden,King's Landing,D2W +4%,4.5 Attack x7,D2W vs 4.5* SoP +2%,Construction Speed +20%,NO,0,795k,20,814k,T2
+8,4,Highgarden,King's Landing,4.5 Attack,4.5 Attack x7,Rallied Troop Capacity vs 4.5* SoP +90k,Food Production +20%,NO,0,795k,20,814k,T2
+8,4,Highgarden,King's Landing,0,4.5 Attack x7,Rally Slots vs 4.5* SoP +2,0,NO,0,795k,20,814k,T2
+9,4,Riverrun,King's Landing,Infantry Health +53%,Bannerman,Infantry Health +45%,March Size Reinforcing Sop +5000,NO,0,795k,20,814k,T2
+9,4,Riverrun,King's Landing,Forging Speed +80%,Steward,Ranged Defense +45%,March Speed Reinforcing +10%,NO,0,795k,20,814k,T2
+9,4,Riverrun,King's Landing,Holder March +225k,Septon,Iron Production +56%,March Speed +15%,NO,0,795k,20,814k,T2
+9,4,Riverrun,King's Landing,Training Speed +105%,Sentinel,Wounded Capacity +3366,Cavalry Attack +15%,NO,0,795k,20,814k,T2
+9,4,Riverrun,King's Landing,Wood Gathering +66%,4.5 Attack x7,March Size vs 4.5* SoP +150k,D2W +4%,NO,0,795k,20,814k,T2
+9,4,Riverrun,King's Landing,D2W +4%,4.5 Attack x7,D2W vs 4.5* SoP +2%,Construction Speed +20%,NO,0,795k,20,814k,T2
+9,4,Riverrun,King's Landing,4.5 Attack,4.5 Attack x7,Rallied Troop Capacity vs 4.5* SoP +90k,Maester Speed +20%,NO,0,795k,20,814k,T2
+9,4,Riverrun,King's Landing,0,4.5 Attack x7,Rally Slots vs 4.5* SoP +2,0,NO,0,795k,20,814k,T2
+10,3.5,Dreadfort,"King's Landing, Winterfell",Infantry Attack +49%,Landed Knight,Infantry Attack +42%,March Size Reinforcing SoP +2500,NO,0,760k,18,755k,T2
+10,3.5,Dreadfort,"King's Landing, Winterfell",Holder March +189k,Bannerman,Defender Defense +63%,Construction Speed +3%,NO,0,760k,18,755k,T2
+10,3.5,Dreadfort,"King's Landing, Winterfell",Food Gathering +61%,Cupbearer,Cavalry Attack +42%,March Speed vs Creatures +3%,NO,0,760k,18,755k,T2
+10,3.5,Dreadfort,"King's Landing, Winterfell",Trap Attack +73%,Sentinel,Wood Production +53%,Forging Speed +3%,NO,0,760k,18,755k,T2
+10,3.5,Dreadfort,"King's Landing, Winterfell",4 Attack,4 Attack x6,March Size vs 4* SoP +135k,Maester Speed +3%,NO,0,760k,18,755k,T2
+10,3.5,Dreadfort,"King's Landing, Winterfell",0,4 Attack x6,D2W vs 4* SoP +2%,0,NO,0,760k,18,755k,T2
+10,3.5,Dreadfort,"King's Landing, Winterfell",0,4 Attack x6,Rallied Troop Capacity vs 4* SoP +81k,0,NO,0,760k,18,755k,T2
+10,3.5,Dreadfort,"King's Landing, Winterfell",0,4 Attack x6,Rally Slots vs 4* SoP +2,0,NO,0,760k,18,755k,T2
+11,3.5,Oldtown,"King's Landing, Highgarden",Cavalry Attack +49%,Bannerman,Cavalry Attack +42%,"March Size Reinforcing SoP 2,500",NO,0,760k,18,755k,T2
+11,3.5,Oldtown,"King's Landing, Highgarden",Holder March +189k,Steward,Healing Speed +84%,Maester Speed 3.00%,NO,0,760k,18,755k,T2
+11,3.5,Oldtown,"King's Landing, Highgarden",Troop Load +49%,Septon,Defender Defense +63%,Forging Speed 3.00%,NO,0,760k,18,755k,T2
+11,3.5,Oldtown,"King's Landing, Highgarden",Training Speed +98%,Sentinel,March Size vs Creatures +3168,Construction Speed 3.00%,NO,0,760k,18,755k,T2
+11,3.5,Oldtown,"King's Landing, Highgarden",4 Attack,4 Attack x6,March Size vs 4* SoP +135k,Gold Gathering 3.00%,NO,0,760k,18,755k,T2
+11,3.5,Oldtown,"King's Landing, Highgarden",0,4 Attack x6,D2W vs 4* SoP +2%,0,NO,0,760k,18,755k,T2
+11,3.5,Oldtown,"King's Landing, Highgarden",0,4 Attack x6,Rallied Troop Capacity vs 4* SoP +81k,0,NO,0,760k,18,755k,T2
+11,3.5,Oldtown,"King's Landing, Highgarden",0,4 Attack x6,Rally Slots vs 4* SoP +2,0,NO,0,760k,18,755k,T2
+12,3.5,Harrenhal,"King's Landing, Riverrun",Infantry Health +49%,Bannerman,Infantry Health +42%,March Size Reinforcing SoP +2500,NO,0,760k,18,755k,T2
+12,3.5,Harrenhal,"King's Landing, Riverrun",Holder March +189k,Spymaster,Defender Attack +63%,March Speed vs Resources +5%,NO,0,760k,18,755k,T2
+12,3.5,Harrenhal,"King's Landing, Riverrun",Training Speed +98%,Maester,Stone Production +53%,Iron Gathering +3%,NO,0,760k,18,755k,T2
+12,3.5,Harrenhal,"King's Landing, Riverrun",Wood Gathering +61%,Sentinel,Siege Defense +42%,Food Gathering +3%,NO,0,760k,18,755k,T2
+12,3.5,Harrenhal,"King's Landing, Riverrun",4 Attack,4 Attack x6,March Size vs 4* SoP +135k,Troop Load +2%,NO,0,760k,18,755k,T2
+12,3.5,Harrenhal,"King's Landing, Riverrun",0,4 Attack x6,D2W vs 4* SoP +2%,0,NO,0,760k,18,755k,T2
+12,3.5,Harrenhal,"King's Landing, Riverrun",0,4 Attack x6,Rallied Troop Capacity vs 4* SoP +81k,0,NO,0,760k,18,755k,T2
+12,3.5,Harrenhal,"King's Landing, Riverrun",0,4 Attack x6,Rally Slots vs 4* SoP +2,0,NO,0,760k,18,755k,T2
+13,3.5,Twins,"King's Landing, Riverrun",Infantry Health +49%,Bannerman,Infantry Health +42%,March Size Reinforcing SoP +2500,NO,0,760k,18,755k,T2
+13,3.5,Twins,"King's Landing, Riverrun",Holder March +189k,Spymaster,Siege Health +42%,Food Gathering +3%,NO,0,760k,18,755k,T2
+13,3.5,Twins,"King's Landing, Riverrun",Training Speed +98%,Kennelmaster,Training Speed +84%,Iron Gathering +3%,NO,0,760k,18,755k,T2
+13,3.5,Twins,"King's Landing, Riverrun",Wood Gathering +61%,Sentinel,Troop Health +21%,Troop Load +2%,NO,0,760k,18,755k,T2
+13,3.5,Twins,"King's Landing, Riverrun",4 Attack,4 Attack x6,March Size vs 4* SoP +135k,March Speed vs Resources +5%,NO,0,760k,18,755k,T2
+13,3.5,Twins,"King's Landing, Riverrun",0,4 Attack x6,D2W vs 4* SoP +2%,0,NO,0,760k,18,755k,T2
+13,3.5,Twins,"King's Landing, Riverrun",0,4 Attack x6,Rallied Troop Capacity vs 4* SoP +81k,0,NO,0,760k,18,755k,T2
+13,3.5,Twins,"King's Landing, Riverrun",0,4 Attack x6,Rally Slots vs 4* SoP +2,0,NO,0,760k,18,755k,T2
+14,3.5,Evenfall Hall,"King's Landing, Storm's End",Ranged Attack +49%,Bannerman,Ranged Attack +42%,March Size Reinforcing SoP +2500,NO,0,760k,18,755k,T2
+14,3.5,Evenfall Hall,"King's Landing, Storm's End",Holder March +189k,Maester,Cavalry Health +42%,Barracks Training Capacity(infantry) +32,NO,0,760k,18,755k,T2
+14,3.5,Evenfall Hall,"King's Landing, Storm's End",March Speed vs Creatures +73%,Cupbearer,Wood Gathering +53%,Range Training Capacity (ranged) +32,NO,0,760k,18,755k,T2
+14,3.5,Evenfall Hall,"King's Landing, Storm's End",Maester Speed +61%,Sentinel,March Size +2112,Stable Training Capacity (cavalry) +32,NO,0,760k,18,755k,T2
+14,3.5,Evenfall Hall,"King's Landing, Storm's End",4 Attack,4 Attack x6,March Size vs 4* SoP +135k,Training Speed +4%,NO,0,760k,18,755k,T2
+14,3.5,Evenfall Hall,"King's Landing, Storm's End",0,4 Attack x6,D2W vs 4* SoP +2%,0,NO,0,760k,18,755k,T2
+14,3.5,Evenfall Hall,"King's Landing, Storm's End",0,4 Attack x6,Rallied Troop Capacity vs 4* SoP +81k,0,NO,0,760k,18,755k,T2
+14,3.5,Evenfall Hall,"King's Landing, Storm's End",0,4 Attack x6,Rally Slots vs 4* SoP +2,0,NO,0,760k,18,755k,T2
+15,3.5,Harvest Hall,"King's Landing, Storm's End",Ranged Attack +49%,Landed Knight,Ranged Attack +42%,March Size Reinforcing SoP +2500,NO,0,760k,18,755k,T2
+15,3.5,Harvest Hall,"King's Landing, Storm's End",Holder March +189k,Bannerman,Ranged Defense +42%,Range Training Capacity (ranged) +32,NO,0,760k,18,755k,T2
+15,3.5,Harvest Hall,"King's Landing, Storm's End",March Speed vs Creatures +73%,Cupbearer,March Speed vs SoP +42%,Healing Speed +4%,NO,0,760k,18,755k,T2
+15,3.5,Harvest Hall,"King's Landing, Storm's End",Maester Speed +61%,Sentinel,Cavalry Health +42%,Healing Cost Efficiency +4%,NO,0,760k,18,755k,T2
+15,3.5,Harvest Hall,"King's Landing, Storm's End",4 Attack,4 Attack x6,March Size vs 4* SoP +135k,March Speed +2%,NO,0,760k,18,755k,T2
+15,3.5,Harvest Hall,"King's Landing, Storm's End",0,4 Attack x6,D2W vs 4* SoP +2%,0,NO,0,760k,18,755k,T2
+15,3.5,Harvest Hall,"King's Landing, Storm's End",0,4 Attack x6,Rallied Troop Capacity vs 4* SoP +81k,0,NO,0,760k,18,755k,T2
+15,3.5,Harvest Hall,"King's Landing, Storm's End",0,4 Attack x6,Rally Slots vs 4* SoP +2,0,NO,0,760k,18,755k,T2
+16,3.5,Clegane's Keep,"King's Landing, Casterly Rock",Ranged Attack +49%,Bannerman,Ranged Attack +42%,March Size Reinforcing SoP +2500,NO,0,760k,18,755k,T2
+16,3.5,Clegane's Keep,"King's Landing, Casterly Rock",Holder March +189k,Spymaster,Wounded Capacity +3168,Gold Gathering 3.00%,NO,0,760k,18,755k,T2
+16,3.5,Clegane's Keep,"King's Landing, Casterly Rock",March Speed vs Creatures +73%,Kennelmaster,Infantry Attack +42%,March Speed +2%,NO,0,760k,18,755k,T2
+16,3.5,Clegane's Keep,"King's Landing, Casterly Rock",Maester Speed +61%,Sentinel,Defender Attack +63%,Stone Gathering +3%,NO,0,760k,18,755k,T2
+16,3.5,Clegane's Keep,"King's Landing, Casterly Rock",4 Attack,4 Attack x6,March Size vs 4* SoP +135k,Troop Load +2%,NO,0,760k,18,755k,T2
+16,3.5,Clegane's Keep,"King's Landing, Casterly Rock",0,4 Attack x6,D2W vs 4* SoP +2%,0,NO,0,760k,18,755k,T2
+16,3.5,Clegane's Keep,"King's Landing, Casterly Rock",0,4 Attack x6,Rallied Troop Capacity vs 4* SoP +81k,0,NO,0,760k,18,755k,T2
+16,3.5,Clegane's Keep,"King's Landing, Casterly Rock",0,4 Attack x6,Rally Slots vs 4* SoP +2,0,NO,0,760k,18,755k,T2
+17,3.5,Golden Tooth,"King's Landing, Casterly Rock",Ranged Attack +49%,Bannerman,Ranged Attack +42%,March Size Reinforcing SoP +2500,NO,0,760k,18,755k,T2
+17,3.5,Golden Tooth,"King's Landing, Casterly Rock",Holder March +189k,Maester,Troop Health +21%,Troop Load +2%,NO,0,760k,18,755k,T2
+17,3.5,Golden Tooth,"King's Landing, Casterly Rock",March Speed vs Creatures +73%,Cupbearer,Cavalry Health +42%,Wood Gathering +3%,NO,0,760k,18,755k,T2
+17,3.5,Golden Tooth,"King's Landing, Casterly Rock",Maester Speed +61%,Sentinel,Stone Production +60%,Stone Gathering +3%,NO,0,760k,18,755k,T2
+17,3.5,Golden Tooth,"King's Landing, Casterly Rock",4 Attack,4 Attack x6,March Size vs 4* SoP +135k,Iron Gathering +3%,NO,0,760k,18,755k,T2
+17,3.5,Golden Tooth,"King's Landing, Casterly Rock",0,4 Attack x6,D2W vs 4* SoP +2%,0,NO,0,760k,18,755k,T2
+17,3.5,Golden Tooth,"King's Landing, Casterly Rock",0,4 Attack x6,Rallied Troop Capacity vs 4* SoP +81k,0,NO,0,760k,18,755k,T2
+17,3.5,Golden Tooth,"King's Landing, Casterly Rock",0,4 Attack x6,Rally Slots vs 4* SoP +2,0,NO,0,760k,18,755k,T2
+18,3,Hellholt,"King's Landing, Sunspear",Infantry Attack +45%,Bannerman,Infantry Attack +40%,March Size Reinforcing SoP +2500,NO,0,736k,18,697k,T3
+18,3,Hellholt,"King's Landing, Sunspear",Holder March +165k,Landed Knight,Cavalry Attack +40%,Stamina Regeneration +1%,NO,0,736k,18,697k,T3
+18,3,Hellholt,"King's Landing, Sunspear",Defender Defense +68%,Cupbearer,Defender Attack +59%,March Size vs Creatures +225,NO,0,736k,18,697k,T3
+18,3,Hellholt,"King's Landing, Sunspear",Stone Gathering +56%,3.5 Attack x5,"March Size vs 3.5* SoP +120,967",March Speed vs Creatures +5%,NO,0,736k,18,697k,T3
+18,3,Hellholt,"King's Landing, Sunspear",3.5 Attack,3.5 Attack x5,D2W vs 3.5* SoP +2%,0,NO,0,736k,18,697k,T3
+18,3,Hellholt,"King's Landing, Sunspear",0,3.5 Attack x5,"Rallied Troop Capacity vs 3.5* SoP +72,580",0,NO,0,736k,18,697k,T3
+18,3,Hellholt,"King's Landing, Sunspear",0,3.5 Attack x5,Rally Slots vs 3.5* SoP +2,0,NO,0,736k,18,697k,T3
+19,3,Starfall,"King's Landing, Sunspear",Infantry Attack +45%,Bannerman,Infantry Attack +40%,March Size Reinforcing SoP +2500,NO,0,736k,18,697k,T3
+19,3,Starfall,"King's Landing, Sunspear",Holder March +165k,Landed Knight,Stone Gathering +50%,Stamina Regeneration +1%,NO,0,736k,18,697k,T3
+19,3,Starfall,"King's Landing, Sunspear",Defender Defense +68%,Cupbearer,Troop Health +20%,Attack vs Creatures +3%,NO,0,736k,18,697k,T3
+19,3,Starfall,"King's Landing, Sunspear",Stone Gathering +56%,3.5 Attack x5,"March Size vs 3.5* SoP +120,967",March Speed vs Creatures +5%,NO,0,736k,18,697k,T3
+19,3,Starfall,"King's Landing, Sunspear",3.5 Attack,3.5 Attack x5,D2W vs 3.5* SoP +2%,0,NO,0,736k,18,697k,T3
+19,3,Starfall,"King's Landing, Sunspear",0,3.5 Attack x5,"Rallied Troop Capacity vs 3.5* SoP +72,580",0,NO,0,736k,18,697k,T3
+19,3,Starfall,"King's Landing, Sunspear",0,3.5 Attack x5,Rally Slots vs 3.5* SoP +2,0,NO,0,736k,18,697k,T3
+20,3,Moat Cailin,"King's Landing, Winterfell",Infantry Attack +45%,Bannerman,Infantry Attack +40%,March Size Reinforcing SoP +2500,NO,0,736k,18,697k,T3
+20,3,Moat Cailin,"King's Landing, Winterfell",Holder March +165k,Maester,Rallied Troop Capacity +9900,Construction Speed +4%,NO,0,736k,18,697k,T3
+20,3,Moat Cailin,"King's Landing, Winterfell",Food Gathering +56%,Cupbearer,Healing Speed +79%,Forging Speed +4%,NO,0,736k,18,697k,T3
+20,3,Moat Cailin,"King's Landing, Winterfell",Trap Attack +68%,3.5 Attack x5,"March Size vs 3.5* SoP +120,967",Healing Speed +6%,NO,0,736k,18,697k,T3
+20,3,Moat Cailin,"King's Landing, Winterfell",3.5 Attack,3.5 Attack x5,D2W vs 3.5* SoP +2%,0,NO,0,736k,18,697k,T3
+20,3,Moat Cailin,"King's Landing, Winterfell",0,3.5 Attack x5,"Rallied Troop Capacity vs 3.5* SoP +72,580",0,NO,0,736k,18,697k,T3
+20,3,Moat Cailin,"King's Landing, Winterfell",0,3.5 Attack x5,Rally Slots vs 3.5* SoP +2,0,NO,0,736k,18,697k,T3
+21,3,Deepwood Motte,"King's Landing, Winterfell",Infantry Attack +45%,Bannerman,Infantry Attack +40%,March Size Reinforcing SoP +2500,NO,0,736k,18,697k,T3
+21,3,Deepwood Motte,"King's Landing, Winterfell",Holder March +165k,Septon,Troop Load +40%,Construction Speed +4%,NO,0,736k,18,697k,T3
+21,3,Deepwood Motte,"King's Landing, Winterfell",Food Gathering +56%,Cupbearer,Cavalry Attack +40%,Forging Speed +4%,NO,0,736k,18,697k,T3
+21,3,Deepwood Motte,"King's Landing, Winterfell",Trap Attack +68%,3.5 Attack x5,"March Size vs 3.5* SoP +120,967",Training Speed +6%,NO,0,736k,18,697k,T3
+21,3,Deepwood Motte,"King's Landing, Winterfell",3.5 Attack,3.5 Attack x5,D2W vs 3.5* SoP +2%,0,NO,0,736k,18,697k,T3
+21,3,Deepwood Motte,"King's Landing, Winterfell",0,3.5 Attack x5,"Rallied Troop Capacity vs 3.5* SoP +72,580",0,NO,0,736k,18,697k,T3
+21,3,Deepwood Motte,"King's Landing, Winterfell",0,3.5 Attack x5,Rally Slots vs 3.5* SoP +2,0,NO,0,736k,18,697k,T3
+22,3,Ashford Castle,"King's Landing, Highgarden",Cavalry Attack +45%,Landed Knight,Cavalry Attack +40%,March Size Reinforcing SoP +2500,NO,0,736k,18,697k,T3
+22,3,Ashford Castle,"King's Landing, Highgarden",Holder March +165k,Bannerman,March Speed +40%,Maester Speed +4%,NO,0,736k,18,697k,T3
+22,3,Ashford Castle,"King's Landing, Highgarden",Troop Load +45%,Cupbearer,Food Gathering +50%,Trap Training Speed +6%,NO,0,736k,18,697k,T3
+22,3,Ashford Castle,"King's Landing, Highgarden",Training Speed +90%,3.5 Attack x5,"March Size vs 3.5* SoP +120,967",March Speed vs Resources +8%,NO,0,736k,18,697k,T3
+22,3,Ashford Castle,"King's Landing, Highgarden",3.5 Attack,3.5 Attack x5,D2W vs 3.5* SoP +2%,0,NO,0,736k,18,697k,T3
+22,3,Ashford Castle,"King's Landing, Highgarden",0,3.5 Attack x5,"Rallied Troop Capacity vs 3.5* SoP +72,580",0,NO,0,736k,18,697k,T3
+22,3,Ashford Castle,"King's Landing, Highgarden",0,3.5 Attack x5,Rally Slots vs 3.5* SoP +2,0,NO,0,736k,18,697k,T3
+23,3,Horn Hill,"King's Landing, Highgarden",Cavalry Attack +45%,Bannerman,Cavalry Attack +40%,March Size Reinforcing SoP +2500,NO,0,736k,18,697k,T3
+23,3,Horn Hill,"King's Landing, Highgarden",Holder March +165k,Steward,March Speed vs Creatures +59%,Maester Speed +4%,NO,0,736k,18,697k,T3
+23,3,Horn Hill,"King's Landing, Highgarden",Troop Load +45%,Septon,March Size vs Creatures +2970,Steel Crafting Efficiency +8%,NO,0,736k,18,697k,T3
+23,3,Horn Hill,"King's Landing, Highgarden",Training Speed +90%,3.5 Attack x5,"March Size vs 3.5* SoP +120,967",March Speed vs Resources +8%,NO,0,736k,18,697k,T3
+23,3,Horn Hill,"King's Landing, Highgarden",3.5 Attack,3.5 Attack x5,D2W vs 3.5* SoP +2%,0,NO,0,736k,18,697k,T3
+23,3,Horn Hill,"King's Landing, Highgarden",0,3.5 Attack x5,"Rallied Troop Capacity vs 3.5* SoP +72,580",0,NO,0,736k,18,697k,T3
+23,3,Horn Hill,"King's Landing, Highgarden",0,3.5 Attack x5,Rally Slots vs 3.5* SoP +2,0,NO,0,736k,18,697k,T3
+24,3,Bloody Gate,"King's Landing, Eyrie",Cavalry Attack +45%,Landed Knight,Cavalry Attack +40%,March Size Reinforcing SoP +2500,NO,0,736k,18,697k,T3
+24,3,Bloody Gate,"King's Landing, Eyrie",Holder March +165k,Bannerman,Troop Load +40%,Attack vs Creatures +3%,NO,0,736k,18,697k,T3
+24,3,Bloody Gate,"King's Landing, Eyrie",Stable Training Capacity (cavalry) +225,Cupbearer,Defense at SoP +40%,March Speed vs Creatures +5%,NO,0,736k,18,697k,T3
+24,3,Bloody Gate,"King's Landing, Eyrie",Food Gathering +56%,3.5 Attack x5,"March Size vs 3.5* SoP +120,967",Stamina Regeneration +1%,NO,0,736k,18,697k,T3
+24,3,Bloody Gate,"King's Landing, Eyrie",3.5 Attack,3.5 Attack x5,D2W vs 3.5* SoP +2%,0,NO,0,736k,18,697k,T3
+24,3,Bloody Gate,"King's Landing, Eyrie",0,3.5 Attack x5,"Rallied Troop Capacity vs 3.5* SoP +72,580",0,NO,0,736k,18,697k,T3
+24,3,Bloody Gate,"King's Landing, Eyrie",0,3.5 Attack x5,Rally Slots vs 3.5* SoP +2,0,NO,0,736k,18,697k,T3
+25,2.5,Bear Island,"King's Landing, Winterfell",Infantry Attack +38%,Bannerman,Infantry Attack +37%,March Size Reinforcing SoP +1250,NO,0,710k,18,640k,T3
+25,2.5,Bear Island,"King's Landing, Winterfell",Holder March +86k,Maester,Trap Capacity +4620,Construction Speed +4%,NO,0,710k,18,640k,T3
+25,2.5,Bear Island,"King's Landing, Winterfell",Food Gathering +47%,Cupbearer,Siege Health +37%,Forging Speed +4%,NO,0,710k,18,640k,T3
+25,2.5,Bear Island,"King's Landing, Winterfell",Trap Attack +56%,3 Attack x5,"March Size vs 3* SoP +117,147",Healing Speed +6%,NO,0,710k,18,640k,T3
+25,2.5,Bear Island,"King's Landing, Winterfell",3 Attack,3 Attack x5,D2W vs 3* SoP +2%,0,NO,0,710k,18,640k,T3
+25,2.5,Bear Island,"King's Landing, Winterfell",0,3 Attack x5,"Rallied Troop Capacity vs 3* SoP +70,288",0,NO,0,710k,18,640k,T3
+25,2.5,Bear Island,"King's Landing, Winterfell",0,3 Attack x5,Rally Slots vs 3* SoP +1,0,NO,0,710k,18,640k,T3
+26,2.5,Highpoint,"King's Landing, Winterfell, Deepwood Motte",Infantry Attack +38%,Landed Knight,Infantry Attack +37%,March Size Reinforcing SoP +1250,NO,0,710k,18,640k,T3
+26,2.5,Highpoint,"King's Landing, Winterfell, Deepwood Motte",Holder March +86k,Bannerman,March Size +1848,Construction Speed +4%,NO,0,710k,18,640k,T3
+26,2.5,Highpoint,"King's Landing, Winterfell, Deepwood Motte",Food Gathering +47%,Cupbearer,Infantry Defense +37%,Forging Speed +4%,NO,0,710k,18,640k,T3
+26,2.5,Highpoint,"King's Landing, Winterfell, Deepwood Motte",Trap Attack +56%,3 Attack x5,"March Size vs 3* SoP +117,147",Training Speed +6%,NO,0,710k,18,640k,T3
+26,2.5,Highpoint,"King's Landing, Winterfell, Deepwood Motte",3 Attack,3 Attack x5,D2W vs 3* SoP +2%,0,NO,0,710k,18,640k,T3
+26,2.5,Highpoint,"King's Landing, Winterfell, Deepwood Motte",0,3 Attack x5,"Rallied Troop Capacity vs 3* SoP +70,288",0,NO,0,710k,18,640k,T3
+26,2.5,Highpoint,"King's Landing, Winterfell, Deepwood Motte",0,3 Attack x5,Rally Slots vs 3* SoP +1,0,NO,0,710k,18,640k,T3
+27,2.5,Pinkmaiden,"King's Landing, Riverrun",Infantry Health +38%,Bannerman,Infantry Health +37%,March Size Reinforcing SoP +1250,NO,0,710k,18,640k,T3
+27,2.5,Pinkmaiden,"King's Landing, Riverrun",Holder March +86k,Spymaster,Ranged Defense +37%,Troop Load +3%,NO,0,710k,18,640k,T3
+27,2.5,Pinkmaiden,"King's Landing, Riverrun",Training Speed +75%,Maester,March Speed vs Creatures +55%,Food Gathering +4%,NO,0,710k,18,640k,T3
+27,2.5,Pinkmaiden,"King's Landing, Riverrun",Wood Gathering +47%,3 Attack x5,"March Size vs 3* SoP +117,147",Stone Gathering +4%,NO,0,710k,18,640k,T3
+27,2.5,Pinkmaiden,"King's Landing, Riverrun",3 Attack,3 Attack x5,D2W vs 3* SoP +2%,0,NO,0,710k,18,640k,T3
+27,2.5,Pinkmaiden,"King's Landing, Riverrun",0,3 Attack x5,"Rallied Troop Capacity vs 3* SoP +70,288",0,NO,0,710k,18,640k,T3
+27,2.5,Pinkmaiden,"King's Landing, Riverrun",0,3 Attack x5,Rally Slots vs 3* SoP +1,0,NO,0,710k,18,640k,T3
+28,2.5,Baelish Castle,"King's Landing, Eyrie",Cavalry Attack +38%,Bannerman,Cavalry Attack +37%,March Size Reinforcing SoP +1250,NO,0,710k,18,640k,T3
+28,2.5,Baelish Castle,"King's Landing, Eyrie",Holder March +86k,Spymaster,Infantry Defense +37%,Attack vs Creatures +3%,NO,0,710k,18,640k,T3
+28,2.5,Baelish Castle,"King's Landing, Eyrie",Stable Training Capacity (cavalry) +188,Kennelmaster,Defender Defense +55%,Health vs Creatures +3%,NO,0,710k,18,640k,T3
+28,2.5,Baelish Castle,"King's Landing, Eyrie",Food Gathering +47%,3 Attack x5,"March Size vs 3* SoP +117,147",March Size vs Creatures +225,NO,0,710k,18,640k,T3
+28,2.5,Baelish Castle,"King's Landing, Eyrie",3 Attack,3 Attack x5,D2W vs 3* SoP +2%,0,NO,0,710k,18,640k,T3
+28,2.5,Baelish Castle,"King's Landing, Eyrie",0,3 Attack x5,"Rallied Troop Capacity vs 3* SoP +70,288",0,NO,0,710k,18,640k,T3
+28,2.5,Baelish Castle,"King's Landing, Eyrie",0,3 Attack x5,Rally Slots vs 3* SoP +1,0,NO,0,710k,18,640k,T3
+29,2.5,Gates of the Moon,"King's Landing, Eyrie, Bloody Gate",Cavalry Attack +38%,Bannerman,Cavalry Attack +37%,March Size Reinforcing SoP +1250,NO,0,710k,18,640k,T3
+29,2.5,Gates of the Moon,"King's Landing, Eyrie, Bloody Gate",Holder March +86k,Steward,Defender Attack +55%,Stamina Regeneration +1%,NO,0,710k,18,640k,T3
+29,2.5,Gates of the Moon,"King's Landing, Eyrie, Bloody Gate",Stable Training Capacity (cavalry) +188,Septon,Training Speed 74%,March Speed vs Creatures +5%,NO,0,710k,18,640k,T3
+29,2.5,Gates of the Moon,"King's Landing, Eyrie, Bloody Gate",Food Gathering +47%,3 Attack x5,"March Size vs 3* SoP +117,147",March Size vs Creatures +225,NO,0,710k,18,640k,T3
+29,2.5,Gates of the Moon,"King's Landing, Eyrie, Bloody Gate",3 Attack,3 Attack x5,D2W vs 3* SoP +2%,0,NO,0,710k,18,640k,T3
+29,2.5,Gates of the Moon,"King's Landing, Eyrie, Bloody Gate",0,3 Attack x5,"Rallied Troop Capacity vs 3* SoP +70,288",0,NO,0,710k,18,640k,T3
+29,2.5,Gates of the Moon,"King's Landing, Eyrie, Bloody Gate",0,3 Attack x5,Rally Slots vs 3* SoP +1,0,NO,0,710k,18,640k,T3
+30,2.5,Dun Fort,"King's Landing, Dragonstone",Healing Cost Efficiency +75%,Bannerman,Healing Cost Efficiency +74%,March Size Reinforcing SoP +1250,NO,0,710k,18,640k,T3
+30,2.5,Dun Fort,"King's Landing, Dragonstone",Holder March +86k,Steward,Food Gathering +46%,Infantry Defense +3%,NO,0,710k,18,640k,T3
+30,2.5,Dun Fort,"King's Landing, Dragonstone",Iron Gathering +47%,Cupbearer,Siege Health +37%,Barracks Training Capacity(infantry) +45,NO,0,710k,18,640k,T3
+30,2.5,Dun Fort,"King's Landing, Dragonstone",March Size vs Resources +3750,3 Attack x5,"March Size vs 3* SoP +117,147",Reinforcement Capacity +1500,NO,0,710k,18,640k,T3
+30,2.5,Dun Fort,"King's Landing, Dragonstone",3 Attack,3 Attack x5,D2W vs 3* SoP +2%,0,NO,0,710k,18,640k,T3
+30,2.5,Dun Fort,"King's Landing, Dragonstone",0,3 Attack x5,"Rallied Troop Capacity vs 3* SoP +70,288",0,NO,0,710k,18,640k,T3
+30,2.5,Dun Fort,"King's Landing, Dragonstone",0,3 Attack x5,Rally Slots vs 3* SoP +1,0,NO,0,710k,18,640k,T3
+31,2.5,Sandstone,"King's Landing, Sunspear",Infantry Attack +38%,Bannerman,Infantry Attack +37%,March Size Reinforcing SoP +1250,NO,0,710k,18,640k,T3
+31,2.5,Sandstone,"King's Landing, Sunspear",Holder March +86k,Landed Knight,Stone Gathering +46%,March Speed vs Creatures +5%,NO,0,710k,18,640k,T3
+31,2.5,Sandstone,"King's Landing, Sunspear",Defender Defense +56%,Cupbearer,Wounded Capacity +2772,Stamina Regeneration +1%,NO,0,710k,18,640k,T3
+31,2.5,Sandstone,"King's Landing, Sunspear",Stone Gathering +47%,3 Attack x5,"March Size vs 3* SoP +117,147",March Size vs Creatures +225,NO,0,710k,18,640k,T3
+31,2.5,Sandstone,"King's Landing, Sunspear",3 Attack,3 Attack x5,D2W vs 3* SoP +2%,0,NO,0,710k,18,640k,T3
+31,2.5,Sandstone,"King's Landing, Sunspear",0,3 Attack x5,"Rallied Troop Capacity vs 3* SoP +70,288",0,NO,0,710k,18,640k,T3
+31,2.5,Sandstone,"King's Landing, Sunspear",0,3 Attack x5,Rally Slots vs 3* SoP +1,0,NO,0,710k,18,640k,T3
+32,2.5,Tor,"King's Landing, Sunspear",Infantry Attack +38%,Maester,Infantry Attack +37%,March Size Reinforcing SoP +1250,NO,0,710k,18,640k,T3
+32,2.5,Tor,"King's Landing, Sunspear",Holder March +86k,Spymaster,Defender Attack +55%,March Speed vs Creatures +5%,NO,0,710k,18,640k,T3
+32,2.5,Tor,"King's Landing, Sunspear",Defender Defense +56%,Cupbearer,Wood Production +46%,Stamina Regeneration +1%,NO,0,710k,18,640k,T3
+32,2.5,Tor,"King's Landing, Sunspear",Stone Gathering +47%,3 Attack x5,"March Size vs 3* SoP +117,147",Troop Load +3%,NO,0,710k,18,640k,T3
+32,2.5,Tor,"King's Landing, Sunspear",3 Attack,3 Attack x5,D2W vs 3* SoP +2%,0,NO,0,710k,18,640k,T3
+32,2.5,Tor,"King's Landing, Sunspear",0,3 Attack x5,"Rallied Troop Capacity vs 3* SoP +70,288",0,NO,0,710k,18,640k,T3
+32,2.5,Tor,"King's Landing, Sunspear",0,3 Attack x5,Rally Slots vs 3* SoP +1,0,NO,0,710k,18,640k,T3
+33,2.5,Wyl,"King's Landing, Sunspear",Infantry Attack +38%,Maester,Infantry Attack +37%,March Size Reinforcing SoP +1250,NO,0,710k,18,640k,T3
+33,2.5,Wyl,"King's Landing, Sunspear",Holder March +86k,Spymaster,March Speed +37%,Stamina Regeneration +1%,NO,0,710k,18,640k,T3
+33,2.5,Wyl,"King's Landing, Sunspear",Defender Defense +56%,Cupbearer,Wood Production +46%,0,NO,0,710k,18,640k,T3
+33,2.5,Wyl,"King's Landing, Sunspear",Stone Gathering +47%,3 Attack x5,"March Size vs 3* SoP +117,147",0,NO,0,710k,18,640k,T3
+33,2.5,Wyl,"King's Landing, Sunspear",3 Attack,3 Attack x5,D2W vs 3* SoP +2%,0,NO,0,710k,18,640k,T3
+33,2.5,Wyl,"King's Landing, Sunspear",0,3 Attack x5,"Rallied Troop Capacity vs 3* SoP +70,288",0,NO,0,710k,18,640k,T3
+33,2.5,Wyl,"King's Landing, Sunspear",0,3 Attack x5,Rally Slots vs 3* SoP +1,0,NO,0,710k,18,640k,T3
+34,2.5,Blackcrown,"King's Landing, Highgarden, Oldtown",Cavalry Attack +38%,Bannerman,Cavalry Attack +37%,March Size Reinforcing SoP +1250,NO,0,710k,18,640k,T3
+34,2.5,Blackcrown,"King's Landing, Highgarden, Oldtown",Holder March +86k,Landed Knight,Defense at SoP +37%,Maester Speed +4%,NO,0,710k,18,640k,T3
+34,2.5,Blackcrown,"King's Landing, Highgarden, Oldtown",Troop Load +38%,Cupbearer,Siege Defense +37%,March Speed vs Resources +8%,NO,0,710k,18,640k,T3
+34,2.5,Blackcrown,"King's Landing, Highgarden, Oldtown",Training Speed +75%,3 Attack x5,"March Size vs 3* SoP +117,147",Steel Crafting Efficiency +8%,NO,0,710k,18,640k,T3
+34,2.5,Blackcrown,"King's Landing, Highgarden, Oldtown",3 Attack,3 Attack x5,D2W vs 3* SoP +2%,0,NO,0,710k,18,640k,T3
+34,2.5,Blackcrown,"King's Landing, Highgarden, Oldtown",0,3 Attack x5,"Rallied Troop Capacity vs 3* SoP +70,288",0,NO,0,710k,18,640k,T3
+34,2.5,Blackcrown,"King's Landing, Highgarden, Oldtown",0,3 Attack x5,Rally Slots vs 3* SoP +1,0,NO,0,710k,18,640k,T3
+35,2.5,Coldmoat,"King's Landing, Highgarden",Cavalry Attack +38%,Bannerman,Cavalry Attack +37%,March Size Reinforcing SoP +1250,NO,0,710k,18,640k,T3
+35,2.5,Coldmoat,"King's Landing, Highgarden",Holder March +86k,Steward,Rallied Troop Capacity +9240,Maester Speed +4%,NO,0,710k,18,640k,T3
+35,2.5,Coldmoat,"King's Landing, Highgarden",Troop Load +38%,Septon,Defender Health +55%,Training Speed +6%,NO,0,710k,18,640k,T3
+35,2.5,Coldmoat,"King's Landing, Highgarden",Training Speed +75%,3 Attack x5,"March Size vs 3* SoP +117,147",Iron Gathering +4%,NO,0,710k,18,640k,T3
+35,2.5,Coldmoat,"King's Landing, Highgarden",3 Attack,3 Attack x5,D2W vs 3* SoP +2%,0,NO,0,710k,18,640k,T3
+35,2.5,Coldmoat,"King's Landing, Highgarden",0,3 Attack x5,"Rallied Troop Capacity vs 3* SoP +70,288",0,NO,0,710k,18,640k,T3
+35,2.5,Coldmoat,"King's Landing, Highgarden",0,3 Attack x5,Rally Slots vs 3* SoP +1,0,NO,0,710k,18,640k,T3
+36,2.5,Grassy Vale,"King's Landing, Highgarden",Cavalry Attack +38%,Maester,Cavalry Attack +37%,March Size Reinforcing SoP +1250,NO,0,710k,18,640k,T3
+36,2.5,Grassy Vale,"King's Landing, Highgarden",Holder March +86k,Spymaster,Infantry Attack +37%,Maester Speed +4%,NO,0,710k,18,640k,T3
+36,2.5,Grassy Vale,"King's Landing, Highgarden",Troop Load +38%,Cupbearer,March Speed +37%,Forging Speed +4%,NO,0,710k,18,640k,T3
+36,2.5,Grassy Vale,"King's Landing, Highgarden",Training Speed +75%,3 Attack x5,"March Size vs 3* SoP +117,147",March Speed vs Resources +8%,NO,0,710k,18,640k,T3
+36,2.5,Grassy Vale,"King's Landing, Highgarden",3 Attack,3 Attack x5,D2W vs 3* SoP +2%,0,NO,0,710k,18,640k,T3
+36,2.5,Grassy Vale,"King's Landing, Highgarden",0,3 Attack x5,"Rallied Troop Capacity vs 3* SoP +70,288",0,NO,0,710k,18,640k,T3
+36,2.5,Grassy Vale,"King's Landing, Highgarden",0,3 Attack x5,Rally Slots vs 3* SoP +1,0,NO,0,710k,18,640k,T3
+37,2.5,Arbor,"King's Landing, Highgarden",Cavalry Attack +38%,Bannerman,Cavalry Attack +37%,March Size Reinforcing SoP +1250,NO,0,710k,18,640k,T3
+37,2.5,Arbor,"King's Landing, Highgarden",Holder March +86k,Septon,March Size +1848,Maester Speed +4%,NO,0,710k,18,640k,T3
+37,2.5,Arbor,"King's Landing, Highgarden",Troop Load +38%,Cupbearer,Trap Capacity +4620,Troop Load +3%,NO,0,710k,18,640k,T3
+37,2.5,Arbor,"King's Landing, Highgarden",Training Speed +75%,3 Attack x5,"March Size vs 3* SoP +117,147",Steel Crafting Efficiency +8%,NO,0,710k,18,640k,T3
+37,2.5,Arbor,"King's Landing, Highgarden",3 Attack,3 Attack x5,D2W vs 3* SoP +2%,0,NO,0,710k,18,640k,T3
+37,2.5,Arbor,"King's Landing, Highgarden",0,3 Attack x5,"Rallied Troop Capacity vs 3* SoP +70,288",0,NO,0,710k,18,640k,T3
+37,2.5,Arbor,"King's Landing, Highgarden",0,3 Attack x5,Rally Slots vs 3* SoP +1,0,NO,0,710k,18,640k,T3
+38,2.5,Ashemark,"King's Landing, Casterly Rock",Ranged Attack +38%,Maester,Ranged Attack +37%,March Size Reinforcing SoP +1250,NO,0,710k,18,640k,T3
+38,2.5,Ashemark,"King's Landing, Casterly Rock",Holder March +86k,Spymaster,Troop Load +37%,Food Gathering +4%,NO,0,710k,18,640k,T3
+38,2.5,Ashemark,"King's Landing, Casterly Rock",Maester Speed +47%,Cupbearer,Defense at Sop +37%,Stone Gathering +4%,NO,0,710k,18,640k,T3
+38,2.5,Ashemark,"King's Landing, Casterly Rock",March Speed vs Creatures +56%,3 Attack x5,"March Size vs 3* SoP +117,147",March Speed vs Resources +8%,NO,0,710k,18,640k,T3
+38,2.5,Ashemark,"King's Landing, Casterly Rock",3 Attack,3 Attack x5,D2W vs 3* SoP +2%,0,NO,0,710k,18,640k,T3
+38,2.5,Ashemark,"King's Landing, Casterly Rock",0,3 Attack x5,"Rallied Troop Capacity vs 3* SoP +70,288",0,NO,0,710k,18,640k,T3
+38,2.5,Ashemark,"King's Landing, Casterly Rock",0,3 Attack x5,Rally Slots vs 3* SoP +1,0,NO,0,710k,18,640k,T3
+39,2.5,Crakehall,"King's Landing, Casterly Rock, Clegane's Keep",Ranged Attack +38%,Bannerman,Ranged Attack +37%,March Size Reinforcing SoP +1250,NO,0,710k,18,640k,T3
+39,2.5,Crakehall,"King's Landing, Casterly Rock, Clegane's Keep",Holder March +86k,Maester,Food Production +46%,Iron Gathering +4%,NO,0,710k,18,640k,T3
+39,2.5,Crakehall,"King's Landing, Casterly Rock, Clegane's Keep",Maester Speed +47%,Cupbearer,March Speed vs SoP +37%,Wood Gathering +4%,NO,0,710k,18,640k,T3
+39,2.5,Crakehall,"King's Landing, Casterly Rock, Clegane's Keep",March Speed vs Creatures +56%,3 Attack x5,"March Size vs 3* SoP +117,147",Troop Load +3%,NO,0,710k,18,640k,T3
+39,2.5,Crakehall,"King's Landing, Casterly Rock, Clegane's Keep",3 Attack,3 Attack x5,D2W vs 3* SoP +2%,0,NO,0,710k,18,640k,T3
+39,2.5,Crakehall,"King's Landing, Casterly Rock, Clegane's Keep",0,3 Attack x5,"Rallied Troop Capacity vs 3* SoP +70,288",0,NO,0,710k,18,640k,T3
+39,2.5,Crakehall,"King's Landing, Casterly Rock, Clegane's Keep",0,3 Attack x5,Rally Slots vs 3* SoP +1,0,NO,0,710k,18,640k,T3
+40,2.5,Feastfires,"King's Landing, Casterly Rock",Ranged Attack +38%,Maester,Ranged Attack +37%,March Size Reinforcing SoP +1250,NO,0,710k,18,640k,T3
+40,2.5,Feastfires,"King's Landing, Casterly Rock",Holder March +86k,Spymaster,Infantry Health +37%,Iron Gathering +4%,NO,0,710k,18,640k,T3
+40,2.5,Feastfires,"King's Landing, Casterly Rock",Maester Speed +47%,Cupbearer,Siege Health +37%,Stone Gathering +4%,NO,0,710k,18,640k,T3
+40,2.5,Feastfires,"King's Landing, Casterly Rock",March Speed vs Creatures +56%,3 Attack x5,"March Size vs 3* SoP +117,147",March Speed vs Resources +8%,NO,0,710k,18,640k,T3
+40,2.5,Feastfires,"King's Landing, Casterly Rock",3 Attack,3 Attack x5,D2W vs 3* SoP +2%,0,NO,0,710k,18,640k,T3
+40,2.5,Feastfires,"King's Landing, Casterly Rock",0,3 Attack x5,"Rallied Troop Capacity vs 3* SoP +70,288",0,NO,0,710k,18,640k,T3
+40,2.5,Feastfires,"King's Landing, Casterly Rock",0,3 Attack x5,Rally Slots vs 3* SoP +1,0,NO,0,710k,18,640k,T3
+41,2.5,Kayce,"King's Landing, Casterly Rock",Ranged Attack +38%,Bannerman,Ranged Attack +37%,March Size Reinforcing SoP +1250,NO,0,710k,18,640k,T3
+41,2.5,Kayce,"King's Landing, Casterly Rock",Holder March +86k,Septon,March Size +1848,March Speed vs Resources +8%,NO,0,710k,18,640k,T3
+41,2.5,Kayce,"King's Landing, Casterly Rock",Maester Speed +47%,Cupbearer,March Size vs Resources +3696,Food Gathering +4%,NO,0,710k,18,640k,T3
+41,2.5,Kayce,"King's Landing, Casterly Rock",March Speed vs Creatures +56%,3 Attack x5,"March Size vs 3* SoP +117,147",Iron Gathering +4%,NO,0,710k,18,640k,T3
+41,2.5,Kayce,"King's Landing, Casterly Rock",3 Attack,3 Attack x5,D2W vs 3* SoP +2%,0,NO,0,710k,18,640k,T3
+41,2.5,Kayce,"King's Landing, Casterly Rock",0,3 Attack x5,"Rallied Troop Capacity vs 3* SoP +70,288",0,NO,0,710k,18,640k,T3
+41,2.5,Kayce,"King's Landing, Casterly Rock",0,3 Attack x5,Rally Slots vs 3* SoP +1,0,NO,0,710k,18,640k,T3
+42,2.5,Banefort,"King's Landing, Casterly Rock",Ranged Attack +38%,Bannerman,Ranged Attack +37%,March Size Reinforcing SoP +1250,NO,0,710k,18,640k,T3
+42,2.5,Banefort,"King's Landing, Casterly Rock",Holder March +86k,Spymaster,Attack vs Creatures +37%,Food Gathering +4%,NO,0,710k,18,640k,T3
+42,2.5,Banefort,"King's Landing, Casterly Rock",Maester Speed +47%,Maester,Attack at SoP +37%,Wood Gathering +4%,NO,0,710k,18,640k,T3
+42,2.5,Banefort,"King's Landing, Casterly Rock",March Speed vs Creatures +56%,3 Attack x5,"March Size vs 3* SoP +117,147",Training Speed +6%,NO,0,710k,18,640k,T3
+42,2.5,Banefort,"King's Landing, Casterly Rock",3 Attack,3 Attack x5,D2W vs 3* SoP +2%,0,NO,0,710k,18,640k,T3
+42,2.5,Banefort,"King's Landing, Casterly Rock",0,3 Attack x5,"Rallied Troop Capacity vs 3* SoP +70,288",0,NO,0,710k,18,640k,T3
+42,2.5,Banefort,"King's Landing, Casterly Rock",0,3 Attack x5,Rally Slots vs 3* SoP +1,0,NO,0,710k,18,640k,T3
+43,2.5,Bronzegate,"King's Landing, Storm's End",Ranged Attack +38%,Landed Knight,Ranged Attack +37%,March Size Reinforcing SoP +1250,NO,0,710k,18,640k,T3
+43,2.5,Bronzegate,"King's Landing, Storm's End",Holder March +86k,Bannerman,Wood Gathering +46%,Barracks Training Capacity (infantry) +45,NO,0,710k,18,640k,T3
+43,2.5,Bronzegate,"King's Landing, Storm's End",Maester Speed +47%,Cupbearer,Wood Gathering +46%,Training Speed +6%,NO,0,710k,18,640k,T3
+43,2.5,Bronzegate,"King's Landing, Storm's End",March Speed vs Creatures +56%,3 Attack x5,"March Size vs 3* SoP +117,147",March Speed +6%,NO,0,710k,18,640k,T3
+43,2.5,Bronzegate,"King's Landing, Storm's End",3 Attack,3 Attack x5,D2W vs 3* SoP +2%,0,NO,0,710k,18,640k,T3
+43,2.5,Bronzegate,"King's Landing, Storm's End",0,3 Attack x5,"Rallied Troop Capacity vs 3* SoP +70,288",0,NO,0,710k,18,640k,T3
+43,2.5,Bronzegate,"King's Landing, Storm's End",0,3 Attack x5,Rally Slots vs 3* SoP +1,0,NO,0,710k,18,640k,T3
+44,2.5,Griffin's Roost,"King's Landing, Storm's End",Ranged Attack +38%,Bannerman,Ranged Attack +37%,March Size Reinforcing SoP +1250,NO,0,710k,18,640k,T3
+44,2.5,Griffin's Roost,"King's Landing, Storm's End",Holder March +86k,Steward,Cavalry Defense +37%,Range Training Capacity (ranged) +45,NO,0,710k,18,640k,T3
+44,2.5,Griffin's Roost,"King's Landing, Storm's End",Maester Speed +47%,Septon,Stone Production +46%,Training Speed +6%,NO,0,710k,18,640k,T3
+44,2.5,Griffin's Roost,"King's Landing, Storm's End",March Speed vs Creatures +56%,3 Attack x5,"March Size vs 3* SoP +117,147",Healing Speed +6%,NO,0,710k,18,640k,T3
+44,2.5,Griffin's Roost,"King's Landing, Storm's End",3 Attack,3 Attack x5,D2W vs 3* SoP +2%,0,NO,0,710k,18,640k,T3
+44,2.5,Griffin's Roost,"King's Landing, Storm's End",0,3 Attack x5,"Rallied Troop Capacity vs 3* SoP +70,288",0,NO,0,710k,18,640k,T3
+44,2.5,Griffin's Roost,"King's Landing, Storm's End",0,3 Attack x5,Rally Slots vs 3* SoP +1,0,NO,0,710k,18,640k,T3
+45,2.5,Haystack Hall,"King's Landing, Storm's End",Ranged Attack +38%,Bannerman,Ranged Attack +37%,March Size Reinforcing SoP +1250,NO,0,710k,18,640k,T3
+45,2.5,Haystack Hall,"King's Landing, Storm's End",Holder March +86k,Maester,Ranged Attack +37%,Range Training Capacity (ranged) +45,NO,0,710k,18,640k,T3
+45,2.5,Haystack Hall,"King's Landing, Storm's End",Maester Speed +47%,Cupbearer,Food Gathering +46%,Healing Cost Efficiency +6%,NO,0,710k,18,640k,T3
+45,2.5,Haystack Hall,"King's Landing, Storm's End",March Speed vs Creatures +56%,3 Attack x5,"March Size vs 3* SoP +117,147",Reinforcement Capacity +1500,NO,0,710k,18,640k,T3
+45,2.5,Haystack Hall,"King's Landing, Storm's End",3 Attack,3 Attack x5,D2W vs 3* SoP +2%,0,NO,0,710k,18,640k,T3
+45,2.5,Haystack Hall,"King's Landing, Storm's End",0,3 Attack x5,"Rallied Troop Capacity vs 3* SoP +70,288",0,NO,0,710k,18,640k,T3
+45,2.5,Haystack Hall,"King's Landing, Storm's End",0,3 Attack x5,Rally Slots vs 3* SoP +1,0,NO,0,710k,18,640k,T3
+46,2.5,Nightsong,"King's Landing, Storm's End, Harvest Hall",Ranged Attack +38%,Bannerman,Ranged Attack +37%,March Size Reinforcing SoP +1250,NO,0,710k,18,640k,T3
+46,2.5,Nightsong,"King's Landing, Storm's End, Harvest Hall",Holder March +86k,Septon,Troop Defense +18%,Range Training Capacity (ranged) +45,NO,0,710k,18,640k,T3
+46,2.5,Nightsong,"King's Landing, Storm's End, Harvest Hall",Maester Speed +47%,Cupbearer,Troop Load +37%,Training Speed +6%,NO,0,710k,18,640k,T3
+46,2.5,Nightsong,"King's Landing, Storm's End, Harvest Hall",March Speed vs Creatures +56%,3 Attack x5,"March Size vs 3* SoP +117,147",March Speed +6%,NO,0,710k,18,640k,T3
+46,2.5,Nightsong,"King's Landing, Storm's End, Harvest Hall",3 Attack,3 Attack x5,D2W vs 3* SoP +2%,0,NO,0,710k,18,640k,T3
+46,2.5,Nightsong,"King's Landing, Storm's End, Harvest Hall",0,3 Attack x5,"Rallied Troop Capacity vs 3* SoP +70,288",0,NO,0,710k,18,640k,T3
+46,2.5,Nightsong,"King's Landing, Storm's End, Harvest Hall",0,3 Attack x5,Rally Slots vs 3* SoP +1,0,NO,0,710k,18,640k,T3
+47,2.5,Steadfast Pavilion,"King's Landing, Storm's End",Ranged Attack +38%,Bannerman,Ranged Attack +37%,March Size Reinforcing SoP +1250,NO,0,710k,18,640k,T3
+47,2.5,Steadfast Pavilion,"King's Landing, Storm's End",Holder March +86k,Septon,Infantry Defense +37%,Range Training Capacity (ranged) +45,NO,0,710k,18,640k,T3
+47,2.5,Steadfast Pavilion,"King's Landing, Storm's End",Maester Speed +47%,Cupbearer,Ranged Attack +37%,Training Speed +6%,NO,0,710k,18,640k,T3
+47,2.5,Steadfast Pavilion,"King's Landing, Storm's End",March Speed vs Creatures +56%,3 Attack x5,"March Size vs 3* SoP +117,147",March Speed +6%,NO,0,710k,18,640k,T3
+47,2.5,Steadfast Pavilion,"King's Landing, Storm's End",3 Attack,3 Attack x5,D2W vs 3* SoP +2%,0,NO,0,710k,18,640k,T3
+47,2.5,Steadfast Pavilion,"King's Landing, Storm's End",0,3 Attack x5,"Rallied Troop Capacity vs 3* SoP +70,288",0,NO,0,710k,18,640k,T3
+47,2.5,Steadfast Pavilion,"King's Landing, Storm's End",0,3 Attack x5,Rally Slots vs 3* SoP +1,0,NO,0,710k,18,640k,T3
